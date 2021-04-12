@@ -1,4 +1,4 @@
-# prepender
+# Catchline
 
 Prepends text to a file. 
 
